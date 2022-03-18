@@ -1,1 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T17:51:29.415Z" agent="5.0 (Windows)" version="17.1.3" etag="qpzx6agPMJLJNM9v5vsx" type="github"><diagram id="8S9VvhVk1K-bbQ3YesDj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-18T18:03:03.512Z" agent="5.0 (Windows)" etag="icQf_dUyoaW3ThQASBPZ" version="17.1.3" type="github">
+  <diagram id="8S9VvhVk1K-bbQ3YesDj" name="Page-1">
+    <mxGraphModel dx="1677" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bIF0oqi-80NOMJn53a4g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-2" target="bIF0oqi-80NOMJn53a4g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-2" value="Remote" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-5" target="bIF0oqi-80NOMJn53a4g-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-5" target="bIF0oqi-80NOMJn53a4g-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-5" value="Elderly Individual" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="225" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-7" target="bIF0oqi-80NOMJn53a4g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-7" value="Buttons" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="183" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-9" target="bIF0oqi-80NOMJn53a4g-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-9" value="Arduino UNO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="170" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="255" />
+              <mxPoint x="410" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-10" value="Inter-Team Interface: Controlling Sam&#39;s Motors" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="215" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.556;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-13" target="bIF0oqi-80NOMJn53a4g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-12" value="POWER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bIF0oqi-80NOMJn53a4g-11">
+          <mxGeometry x="-0.0342" y="1" relative="1" as="geometry">
+            <mxPoint x="-71" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-13" value="Inter-Team Interface: Nathan&#39;s Battery" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-407" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-15" target="bIF0oqi-80NOMJn53a4g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-15" value="Inter-Team Interface: Data from rotations" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=west;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-16" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.arduino;fillColor=#36868D;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="-220" y="183" width="67.4" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-20" target="bIF0oqi-80NOMJn53a4g-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-20" target="bIF0oqi-80NOMJn53a4g-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="190" />
+              <mxPoint x="520" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-20" value="&lt;div&gt;2 Relay &lt;br&gt;&lt;/div&gt;&lt;div&gt;or transistor&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-21" value="2 H-BRIDGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-23" target="bIF0oqi-80NOMJn53a4g-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-23" value="Power" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-26" target="bIF0oqi-80NOMJn53a4g-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-28" value="AllowNATHAN current to flowthrough relay into H-BRIDGE " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bIF0oqi-80NOMJn53a4g-27">
+          <mxGeometry x="-0.0104" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-26" target="bIF0oqi-80NOMJn53a4g-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-26" value="&lt;div&gt;ON_REMOTE&lt;/div&gt;&lt;div&gt;(When press button)&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.event;" vertex="1" parent="1">
+          <mxGeometry x="680" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="bIF0oqi-80NOMJn53a4g-29" target="bIF0oqi-80NOMJn53a4g-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-32" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bIF0oqi-80NOMJn53a4g-31">
+          <mxGeometry x="-0.2181" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580.0000000000002" y="270.03" as="targetPoint" />
+            <mxPoint x="785.0344827586205" y="199.99551724137953" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="785" y="270.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-34" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bIF0oqi-80NOMJn53a4g-33">
+          <mxGeometry x="-0.142" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-29" value="IS_UP?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-36" value="Toggle H-BRIDGE accordingly" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="685" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-37" value="&lt;div&gt;Motors start turning&lt;/div&gt;&lt;div&gt;and lifting elderly&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bIF0oqi-80NOMJn53a4g-40" value="Current" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
